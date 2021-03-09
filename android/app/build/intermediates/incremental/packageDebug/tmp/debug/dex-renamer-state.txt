@@ -1,0 +1,4 @@
+#Mon Mar 01 19:51:19 IST 2021
+base.0=/Users/mac4/Documents/TaskExample/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
