@@ -1,5 +1,5 @@
 {
-  "name": "Shopping App",
+  "name": "TaskExample",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -14,6 +14,8 @@
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
+    "idx": "^2.5.6",
+    "lodash": "^4.17.21",
     "react": "16.13.1",
     "react-devtools": "^4.10.1",
     "react-native": "0.63.4",
@@ -21,6 +23,7 @@
     "react-native-reanimated": "^1.13.2",
     "react-native-safe-area-context": "^3.1.9",
     "react-native-screens": "^2.18.1",
+    "react-native-simple-toast": "^1.1.3",
     "react-native-svg": "^12.1.0",
     "react-native-swipeout": "^2.3.6",
     "react-redux": "^7.2.2",
