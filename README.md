@@ -1,7 +1,6 @@
 # Sopping App
 
-Parkao is a parking application for cars, bikes etc for UK region.
-Sopping is small ecommerce buisness demo application
+React Native Sooping app with react redux with all curd operation
 
 ## Getting Started
 
